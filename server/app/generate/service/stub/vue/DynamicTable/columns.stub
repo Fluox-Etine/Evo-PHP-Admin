@@ -1,7 +1,0 @@
-import type { TableColumn } from '@/components/business/dynamic-table';
-import { formatToDateTime } from '@/utils/dateUtil';
-
-export type TableColumnItem = TableColumn<any>;
-export const baseColumns: TableColumnItem[] = [
-{COLUMNS}
-];

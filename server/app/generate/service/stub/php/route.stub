@@ -1,4 +1,0 @@
-/** {CLASS_COMMENT} @date {DATE} */
-Route::group('{GROUP_NAME}', function () {
-    {FRONT_ROUTES}
-});

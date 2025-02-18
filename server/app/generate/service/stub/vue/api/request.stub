@@ -1,3 +1,0 @@
-import {request, type RequestOptions} from '@/utils/request';
-
-{FUNCTIONS}
